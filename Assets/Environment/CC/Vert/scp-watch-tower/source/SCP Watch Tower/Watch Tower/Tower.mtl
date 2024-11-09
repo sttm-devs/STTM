@@ -1,0 +1,88 @@
+newmtl Part59Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 9
+
+map_Ka Part59Tex.png
+map_Kd Part59Tex.png
+map_d Part59Tex.png
+
+newmtl Part6Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.37624 0.37624 0.37624 
+
+d 1
+
+Ns 9
+
+newmtl Part5Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00103433 0.00103433 0.00103433 
+
+d 1
+
+Ns 9
+
+newmtl Door1Mtl
+Material Color
+Ka 0.982826 0.827726 0.271577
+Kd 0.982826 0.827726 0.271577
+Ks 0.393131 0.33109 0.108631 
+
+d 0.65098
+
+Ns 9
+
+newmtl Part1Mtl
+Material Color
+Ka 0.789314 0.781751 0.74453
+Kd 0.789314 0.781751 0.74453
+Ks 0.315726 0.3127 0.297812 
+
+d 1
+
+Ns 9
+
+newmtl Part58Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0498964 0.0455684 0.0487943 
+
+d 1
+
+Ns 9
+
+newmtl Wedge2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 1
+
+Ns 9
+
+map_Ka Wedge2Tex.png
+map_Kd Wedge2Tex.png
+map_d Wedge2Tex.png
+
+newmtl Wedge1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.149446 0.147436 0.15351 
+
+d 1
+
+Ns 9
+
