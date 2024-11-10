@@ -77,14 +77,12 @@ public class Steering : MonoBehaviour
                 if (right.activateAction.action.ReadValue<float>() > 0.0f)
                 {
                     forwardDirection = accelerate;
-                    Debug.Log("forward");
                 }
 
                 //use the left grip button to drive backward
                 else if (left.activateAction.action.ReadValue<float>() > 0.0f)
                 {
                     forwardDirection = -accelerate;
-                    Debug.Log("backward");
                 }
                 else
                 {
@@ -114,7 +112,6 @@ public class Steering : MonoBehaviour
             steerSubset.SetParent(null);
             steeringWheel.rotation = rotate;
             steerSubset.SetParent(steeringWheel);
-            Debug.Log("enter");
         }
     }
     
