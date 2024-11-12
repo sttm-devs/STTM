@@ -1197,9 +1197,26 @@ PrefabInstance:
       objectReference: {fileID: 42271526}
     - target: {fileID: 3203384002533305469, guid: f5b1802a361b75d48beea52aaf71c8d2,
         type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3203384002533305469, guid: f5b1802a361b75d48beea52aaf71c8d2,
+        type: 3}
       propertyPath: accelerate
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3203384002533305469, guid: f5b1802a361b75d48beea52aaf71c8d2,
+        type: 3}
+      propertyPath: LeftTrigger
+      value: 
+      objectReference: {fileID: 662874376228636390, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3203384002533305469, guid: f5b1802a361b75d48beea52aaf71c8d2,
+        type: 3}
+      propertyPath: RightTrigger
+      value: 
+      objectReference: {fileID: -7064743982313208051, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
     - target: {fileID: 4185765657546670614, guid: f5b1802a361b75d48beea52aaf71c8d2,
         type: 3}
       propertyPath: m_LocalScale.x

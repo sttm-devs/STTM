@@ -8,8 +8,6 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class Steering : MonoBehaviour
 {
-    public ActionBasedController left;
-    public ActionBasedController right;
     public Transform offset;
     public Transform steeringWheel;
     public Transform steerSubset;
@@ -25,16 +23,8 @@ public class Steering : MonoBehaviour
     private float angle;
     private float forwardDirection;
     private float turnSpeed = 45.0f;
-
-    //public InputActionReference Activate;
-    //public InputActionReference Reverse;
-
-    /*
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }*/
+    public InputActionReference RightTrigger;
+    public InputActionReference LeftTrigger;
 
     // Update is called once per frame
     void Update()
@@ -73,27 +63,45 @@ public class Steering : MonoBehaviour
                     vector = direct;
                 }
 
-                //use the right grip button to drive forward
-                if (right.activateAction.action.ReadValue<float>() > 0.0f)
-                {
-                    forwardDirection = accelerate;
-                }
-
-                //use the left grip button to drive backward
-                else if (left.activateAction.action.ReadValue<float>() > 0.0f)
-                {
-                    forwardDirection = -accelerate;
-                }
-                else
-                {
-                    forwardDirection = 0;
-                }
+                //determines the truck's movement by the user's actions
+                RightTrigger.action.started += Forward;
+                RightTrigger.action.canceled += Stop;
+                LeftTrigger.action.started += Backward;
+                LeftTrigger.action.canceled += Stop;
 
                 Truck.transform.Translate(Vector3.forward * Time.deltaTime * forwardDirection);
                 Truck.transform.Rotate(Vector3.up, angle * Time.deltaTime * turnSpeed);
 
             }
         }
+    }
+
+    void Forward(InputAction.CallbackContext context)
+    {
+        //sets the truck to move forward
+        forwardDirection = accelerate;
+
+        Truck.transform.Translate(Vector3.forward * Time.deltaTime * forwardDirection);
+        Truck.transform.Rotate(Vector3.up, angle * Time.deltaTime * turnSpeed);
+    }
+
+    void Backward(InputAction.CallbackContext context)
+    {
+        //sets the truck to move backward
+        forwardDirection = -accelerate;
+
+        Truck.transform.Translate(Vector3.forward * Time.deltaTime * forwardDirection);
+        Truck.transform.Rotate(Vector3.up, angle * Time.deltaTime * turnSpeed);
+    }
+
+    void Stop(InputAction.CallbackContext context)
+    {
+        //sets the truck to stop
+        forwardDirection = 0;
+
+        Truck.transform.Translate(Vector3.forward * Time.deltaTime * forwardDirection);
+        Truck.transform.Rotate(Vector3.up, angle * Time.deltaTime * turnSpeed);
+
     }
 
     void OnTriggerEnter(Collider other)
