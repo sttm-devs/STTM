@@ -17,9 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Environment/Scenes/Airbase 1.unity
     guid: dd8ed3486f3eda14799a07e123cf9010
-  - enabled: 1
-    path: Assets/Environment/Driving/Airbase 2.unity
-    guid: 62d0a23c8553b054d8f9d902702adf06
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3aee76b9372917449aef639e2f74814,
       type: 2}
