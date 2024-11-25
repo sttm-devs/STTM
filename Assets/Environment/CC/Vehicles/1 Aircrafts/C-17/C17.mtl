@@ -1,528 +1,442 @@
-# Blender 4.2.1 LTS MTL File: 'None'
-# www.blender.org
-
-newmtl Dp1Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Dp1_diff.png
-map_d Dp1_diff.png
-
-newmtl Main2Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Main2_diff.png
-map_d Main2_diff.png
-
 newmtl Meshpart100Mtl
-Kd 0.056374 0.071761 0.019918
-Ks 0.019547 0.019547 0.019547
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 0.0563741 0.0717615 0.0199178
+Kd 0.0563741 0.0717615 0.0199178
+Ks 0.0223286 0.0284232 0.00788903 
 
-newmtl Meshpart103Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart103_diff.png
-map_d Meshpart103_diff.png
+d 1
 
-newmtl Meshpart10Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart10_diff.png
-map_d Meshpart10_diff.png
-
-newmtl Meshpart110Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart110_diff.png
-map_d Meshpart110_diff.png
-
-newmtl Meshpart112Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart112_diff.png
-map_d Meshpart112_diff.png
-
-newmtl Meshpart124Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart124_diff.png
-map_d Meshpart124_diff.png
-
-newmtl Meshpart15Mtl
-Kd 0.373615 0.368591 0.383775
-Ks 0.148659 0.148659 0.148659
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-
-newmtl Meshpart17Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart17_diff.png
-map_d Meshpart17_diff.png
+Ns 0
 
 newmtl Meshpart18Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart18_diff.png
 map_Kd Meshpart18_diff.png
 map_d Meshpart18_diff.png
 
 newmtl Meshpart1Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart1_diff.png
 map_Kd Meshpart1_diff.png
 map_d Meshpart1_diff.png
 
+newmtl Main2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Main2_diff.png
+map_Kd Main2_diff.png
+map_d Main2_diff.png
+
+newmtl Meshpart30Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart2_diff.png
+map_Kd Meshpart2_diff.png
+map_d Meshpart2_diff.png
+
+newmtl Rightaileron1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Rightaileron1_diff.png
+map_Kd Rightaileron1_diff.png
+map_d Rightaileron1_diff.png
+
+newmtl Dp1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Dp1_diff.png
+map_Kd Dp1_diff.png
+map_d Dp1_diff.png
+
+newmtl Wheel21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Wheel21_diff.png
+map_Kd Wheel21_diff.png
+map_d Wheel21_diff.png
+
+newmtl Rr1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Rr1_diff.png
+map_Kd Rr1_diff.png
+map_d Rr1_diff.png
+
+newmtl Meshpart6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart82Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00258583 0.00258583 0.00258583 
+
+d 0.4
+
+Ns 0
+
+map_Ka Meshpart82_diff.png
+map_Kd Meshpart82_diff.png
+map_d Meshpart82_diff.png
+
+map_Bump Meshpart82_nmap.png
+
+map_Ns Meshpart82_spec.png
+
+newmtl P11Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00283396 0.00749103 0.0124968 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart10Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart10_diff.png
+map_Kd Meshpart10_diff.png
+map_d Meshpart10_diff.png
+
+newmtl Meshpart15Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart38Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.337162 0.327844 0.327844 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart17Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart17_diff.png
+map_Kd Meshpart17_diff.png
+map_d Meshpart17_diff.png
+
 newmtl Meshpart20Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart20_diff.png
 map_Kd Meshpart20_diff.png
 map_d Meshpart20_diff.png
 
 newmtl Meshpart22Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart22_diff.png
 map_Kd Meshpart22_diff.png
 map_d Meshpart22_diff.png
 
-newmtl Meshpart23Mtl
-Ks 1.000000 1.000000 1.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 9
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart22_diff.png
-map_d Meshpart22_diff.png
+newmtl Meshpart46Mtl
+Material Color
+Ka 0.315763 0 0
+Kd 0.315763 0 0
+Ks 0.125067 0 0 
 
-newmtl Meshpart2Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart2_diff.png
-map_d Meshpart2_diff.png
+d 1
 
-newmtl Meshpart30Mtl
-Kd 0.940601 0.940601 0.940601
-Ks 0.372552 0.372552 0.372552
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Ns 0
 
 newmtl Meshpart32Mtl
-Kd 0.047776 0.047776 0.047776
-Ks 0.018923 0.018923 0.018923
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 0.0477758 0.0477758 0.0477758
+Kd 0.0477758 0.0477758 0.0477758
+Ks 0.0189229 0.0189229 0.0189229 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart23Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1 
+
+d 0.4
+
+Ns 0
+
+map_Ka Meshpart22_diff.png
+map_Kd Meshpart22_diff.png
+map_d Meshpart22_diff.png
 
 newmtl Meshpart33Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart33_diff.png
 map_Kd Meshpart33_diff.png
 map_d Meshpart33_diff.png
 
-newmtl Meshpart38Mtl
-Kd 0.851252 0.827726 0.827726
-Ks 0.330950 0.330950 0.330950
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+newmtl Meshpart124Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart124_diff.png
+map_Kd Meshpart124_diff.png
+map_d Meshpart124_diff.png
 
 newmtl Meshpart45Mtl
+Material Color
+Ka 0.579547 0.394083 0.227137
 Kd 0.579547 0.394083 0.227137
-Ks 0.158533 0.158533 0.158533
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Ks 0.229546 0.156088 0.0899639 
 
-newmtl Meshpart46Mtl
-Kd 0.315763 0.000000 0.000000
-Ks 0.041689 0.041689 0.041689
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+d 1
+
+Ns 0
+
+newmtl Meshpart110Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart110_diff.png
+map_Kd Meshpart110_diff.png
+map_d Meshpart110_diff.png
 
 newmtl Meshpart65Mtl
-Kd 0.000000 0.049433 0.000638
-Ks 0.006611 0.006611 0.006611
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
+Material Color
+Ka 0 0.0494335 0.000638183
+Kd 0 0.0494335 0.000638183
+Ks 0 0.0195795 0.00025277 
+
 d 0.701961
-illum 9
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
 
-newmtl Meshpart6Mtl
-Kd 1.000000 1.000000 1.000000
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-
-newmtl Meshpart82Mtl
-Ks 0.002586 0.002586 0.002586
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 9
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Meshpart82_diff.png
-map_Pr Meshpart82_spec.png
-map_d Meshpart82_diff.png
-map_Bump Meshpart82_nmap.png
+Ns 0
 
 newmtl Meshpart83Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
 Kd 0.124741 0.113921 0.121986
-Ks 0.047615 0.047615 0.047615
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Ks 0.0494072 0.0451216 0.0483159 
+
+d 1
+
+Ns 0
+
+newmtl Meshpart103Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart103_diff.png
+map_Kd Meshpart103_diff.png
+map_d Meshpart103_diff.png
 
 newmtl Meshpart85Mtl
-Kd 0.046149 0.046149 0.046149
-Ks 0.018279 0.018279 0.018279
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 0.0461488 0.0461488 0.0461488
+Kd 0.0461488 0.0461488 0.0461488
+Ks 0.0182786 0.0182786 0.0182786 
+
+d 1
+
+Ns 0
 
 newmtl Meshpart87Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart87_diff.png
 map_Kd Meshpart87_diff.png
 map_d Meshpart87_diff.png
 
 newmtl Meshpart91Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart91_diff.png
 map_Kd Meshpart91_diff.png
 map_d Meshpart91_diff.png
 
 newmtl Meshpart92Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart92_diff.png
 map_Kd Meshpart92_diff.png
 map_d Meshpart92_diff.png
 
 newmtl Meshpart97Mtl
-Kd 0.193972 0.000000 0.000175
-Ks 0.025633 0.025633 0.025633
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+Material Color
+Ka 0.193972 0 0.000175124
+Kd 0.193972 0 0.000175124
+Ks 0.0768282 0 6.93628e-05 
 
-newmtl P11Mtl
-Kd 0.007155 0.018913 0.031551
-Ks 0.007607 0.007607 0.007607
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
+d 1
 
-newmtl Rightaileron1Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Rightaileron1_diff.png
-map_d Rightaileron1_diff.png
+Ns 0
 
-newmtl Rr1Mtl
-Ks 0.396078 0.396078 0.396078
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Rr1_diff.png
-map_d Rr1_diff.png
+newmtl Meshpart112Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
 
-newmtl Wheel21Mtl
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-Pr 1.000000
-Pm 0.000000
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
-map_Kd Wheel21_diff.png
-map_d Wheel21_diff.png
+d 1
+
+Ns 0
+
+map_Ka Meshpart112_diff.png
+map_Kd Meshpart112_diff.png
+map_d Meshpart112_diff.png
+
