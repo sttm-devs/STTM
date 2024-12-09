@@ -58,7 +58,7 @@ We welcome contributions to enhance this project! Fork the repository, create a 
 The licenses are listed in the 'Licenses' folder.
 This project includes multiple licenses due to different components:
 
-1. **Project License**: All original code, scripts, and assets created specifically for this project are licensed under the [MIT License](LICENSE).
+1. **Project License**: All original code, scripts, and assets created specifically for this project are licensed under the [MIT License](Licenses/LICENSE).
 
 2. **Unity Companion License**: Covers the Unity project template.
 
