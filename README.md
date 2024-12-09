@@ -56,9 +56,11 @@ We welcome contributions to enhance this project! Fork the repository, create a 
 
 <h2>Licenses</h2>
 The licenses are listed in the 'Licenses' folder.
-<ul>
-  <li>Unity Companion License (UCL)</li>
-  <li>Creative Commons</li>
-  <li>MIT License.</li>
-</ul>
+This project includes multiple licenses due to different components:
+
+1. **Project License**: All original code, scripts, and assets created specifically for this project are licensed under the [MIT License](LICENSE).
+
+2. **Unity Companion License**: Covers the Unity project template.
+
+3. **Creative Commons Licenses**: Certain assets from Sketchfab are under Creative Commons licenses.
 
