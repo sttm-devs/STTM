@@ -2,6 +2,10 @@
 
 This project contains the foundational elements of an online VR simulation of a military airbase. Designed with scalability in mind, the project aims to provide an immersive metaverse-style environment where users can simulate realistic airbase operations, complete tasks, and collaborate in multiplayer mode. The primary objective is to enable trainees, such as military personnel and Air Force students, to prepare for real-world scenarios in a safe, risk-free environment.
 
+You can download the latest build of the project here: [Google Drive - Current Build](https://drive.google.com/drive/folders/1xp-F7QdW1TwCY1TZlcKW2ozdZhZGI3lX?usp=sharing).
+
+
+
 <h2>Features</h2>
 <ul>
   <li>Realistic Airbase Environment: Includes 3D models of hangars, control towers, runways, maintenance areas, vehicles, and security infrastructure.</li>
